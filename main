@@ -1,7 +1,7 @@
 // Padillo_Chap13_Lab2.cpp : Defines the entry point for the console application.
-// Program:					Lab 13-2 on pages 492-497
+// Program:				Guessing game
 // Programmer:				Steven L. Padillo
-// Date:					03 December 2016
+// Date:				03 December 2016
 // ~~~~~~~~~~~~
 
 #include "stdafx.h"
